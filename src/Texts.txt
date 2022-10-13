@@ -1,0 +1,34 @@
+*A login page with pin
+A Top progress bar
+
+An home page {
+Total Balance, /
+Request Money, /
+Buy Airtime,/
+pay bills, /
+send giftcard, /
+}
+
+A transactions list /
+Expense List /
+localStorage /
+
+
+     "ExpenseTracker", /
+     "Calculator", /
+     "E-commerce", 
+     "Temperature",
+     "NotesApp", 
+     "LigbtBulb", 
+     "DominosOrder", /
+     "cbtapp", 
+     "RandomizeApp", 
+     "Flashcard", 
+     "drum kit", /
+     "MatchSimulator",/ 
+     "voting App", 
+     "Tic Tac Toe", /
+     "pass the message project", 
+     "Word count project", 
+     "Text to html", 
+     "workout"

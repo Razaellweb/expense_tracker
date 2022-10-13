@@ -1,0 +1,127 @@
+body {
+    background-color: black;
+    color: white;
+    overflow-x: hidden;
+}
+
+.header {
+    margin: 10vh;
+    border-radius: 15px;
+    background-color: rgb(226, 147, 44);
+    color: black;
+    border: none;
+    max-width: 300px;
+    word-wrap: normal;
+}
+
+.sel {
+    color: black;
+    background-color: rgb(228, 162, 77);;
+    height: 30px;
+    width: 60px;
+    border: none;
+    border-radius: 10px;
+}
+.btn {
+    color: black;
+    background-color: rgb(228, 162, 77);;
+    height: 30px;
+    width: 80px;
+    border: none;
+    float: right;
+    border-radius: 10px;
+}
+.exec1 {
+    display: flex;
+    margin: 10vh;
+    justify-content: space-around;
+}
+.field1 {
+    border-radius: 15px;
+    background-color: pink;
+    color: black;
+    border: none;
+    max-width: 500px;
+    height: 90px;
+    width: 160px;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.field2 {
+    border-radius: 15px;
+    background-color: rgb(219, 193, 47);
+    color: black;
+    border: none;
+    max-width: 500px;
+    height: 90px;
+    width: 160px;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.field3 {
+    border-radius: 15px;
+    background-color: lightskyblue;
+    color: black;
+    border: none;
+    max-width: 500px;
+    height: 90px;
+    width: 160px;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.field4 {
+    border-radius: 15px;
+    background-color: violet;
+    color: black;
+    border: none;
+    max-width: 500px;
+    height: 90px;
+    width: 160px;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.lists {
+    list-style: none;
+}
+.litext {
+    font-weight: bold;
+}
+.trans {
+    margin: 10vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.transin {
+    margin: 10vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.transex {
+    margin: 10vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.compare {
+    margin: 10vh;
+    border-color: rgb(226, 147, 44);;
+}
+.inc {
+    color: green;
+}
+.exp {
+    color:red;
+}
+.clear {
+    background-color: tomato;
+    color: black;
+    border-radius: 10px;
+    border: none;
+}
+@media (max-width: 400px) {
+    .header {
+        max-width: 200px;
+        flex-wrap: wrap;
+        overflow-x: hidden;
+    }
+}
